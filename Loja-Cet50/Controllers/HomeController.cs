@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Loja_Cet50.Models;
 using Microsoft.AspNetCore.Mvc;
-using Loja_Cet50.Models;
+using System.Diagnostics;
 
 namespace Loja_Cet50.Controllers
 {
